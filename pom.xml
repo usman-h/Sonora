@@ -185,7 +185,7 @@
         <dependency>
             <groupId>com.usmanhussain.habanero</groupId>
             <artifactId>Habanero</artifactId>
-            <version>1.1.27</version>
+            <version>1.1.9</version>
         </dependency>
 
         <dependency>
