@@ -25,10 +25,10 @@
     <packaging>jar</packaging>
     <version>1.0.0</version>
     <name>com.usmanhussain.sonora:Sonora</name>
-    <description>com.usmanhussain.sonora - Sonora allows accessibility requirements to be automated within a DevOps, Agile or
+    <description>com.usmanhussain.sonora - Sonora allows accessibility and compatibility requirements to be automated within a DevOps, Agile or
         Waterfall (unfortunately) platform. Running inline with Selenium and Cucumber frameworks
     </description>
-    <url>https://github.com/usman-h/Habanero</url>
+    <url>https://github.com/usman-h/Sonora</url>
 
     <licenses>
         <license>
@@ -185,7 +185,7 @@
         <dependency>
             <groupId>com.usmanhussain.habanero</groupId>
             <artifactId>Habanero</artifactId>
-            <version>1.1.9</version>
+            <version>1.2.0</version>
         </dependency>
 
         <dependency>
