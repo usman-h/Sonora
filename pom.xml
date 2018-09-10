@@ -23,7 +23,7 @@
     <groupId>com.usmanhussain.sonora</groupId>
     <artifactId>Sonora</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>com.usmanhussain.sonora:Sonora</name>
     <description>com.usmanhussain.sonora - Sonora allows accessibility and compatibility requirements to be automated within a DevOps, Agile or
         Waterfall (unfortunately) platform. Running inline with Selenium and Cucumber frameworks
@@ -185,7 +185,7 @@
         <dependency>
             <groupId>com.usmanhussain.habanero</groupId>
             <artifactId>Habanero</artifactId>
-            <version>1.2.0</version>
+            <version>1.2.4</version>
         </dependency>
 
         <dependency>
